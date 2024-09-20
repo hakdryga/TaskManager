@@ -1,1 +1,1 @@
-# TaskManager
+# TaskManager by Anna Drygalska
